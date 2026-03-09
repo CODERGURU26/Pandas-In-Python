@@ -701,11 +701,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 ## 📧 Contact & Connect
 
@@ -734,16 +729,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 - [Pandas Cookbook](https://pandas.pydata.org/docs/user_guide/cookbook.html)
-
-### Recommended Books
-- "Python for Data Analysis" by Wes McKinney (Pandas creator)
-- "Pandas in Action" by Boris Paskhaver
-- "Effective Pandas" by Matt Harrison
-
-### Online Courses
-- DataCamp: Data Manipulation with Pandas
-- Coursera: Applied Data Science with Python
-- Kaggle: Pandas Micro-Course
 
 ### Practice Platforms
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
